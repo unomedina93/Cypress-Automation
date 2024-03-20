@@ -7,6 +7,9 @@ Node.js,
 Cypress, 
 VS Code
 
+1. Download and unzip source code folder
+2. In Cypress you can select the unzipped folder, Cypress-Automation-main, as the project
+
 HELP -  \
 Documentation References:\
 https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test
